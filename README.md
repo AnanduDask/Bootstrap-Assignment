@@ -1,12 +1,12 @@
 
 
-WEATHER FORECAST APPLICATION
+#WEATHER FORECAST APPLICATION
 
-Introduction
+#Introduction
 
     WEATHER FORECAST Application is a React JS Web Application which will take Location from the user and give the 5 days weather report based onhttp://openweathermap.org/forecast
 
-Building Application
+#Building Application
 
     First install All the dependencies of The application
 
@@ -16,7 +16,7 @@ Building Application
 
         Run "npm install gulp -g
 
-For Compiling and Running the Application
+#For Compiling and Running the Application
 
     On command prompt go to the Client folder 
     Run "gulp" 
@@ -24,6 +24,9 @@ For Compiling and Running the Application
     On command prompt go to the Server folder 
     Run "npm start" 
 
-Running The Application
+#Running The Application
 
     Open you Browser and  type"localhost:8080" to see the Application
+
+
+//Kindly ignore the includes folder. Because of network problem I can't upload directly. I have upload to existing repository and I imported to WeatherForecast repository.
